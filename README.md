@@ -1,10 +1,9 @@
 # Hospital Appointment Scheduler
 
-Project by: Ayush Raj  
-ERP: 01929
-Course: B.Tech CSE - First Semester  
-Subject: Programming Fundamentals and Logic Building Using Python  
-PS No.: 74
+**Project by:** Ayush Raj  
+**Course:** B.Tech CSE - First Semester  
+**Subject:** Programming Fundamentals and Logic Building Using Python  
+**PS No.:** 74
 
 ## About the project
 
@@ -27,13 +26,13 @@ The program has two doctors: **Dr. Mehta** and **Dr. Rao**. It stores appointmen
 - Python 3
 - No external Python packages are required.
 
-## How to run
+## How to run in Visual Studio Code
 
-1. Download or clone this repository.
-2. Open the project folder in a terminal or in a Python editor.
-3. Run `python one.py`.
-4. Select an option from the menu and enter the requested details.
-5. Select option `5` to close the program.
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open Terminal > New Terminal.
+4. Run `python one.py`.
+5. Select an option from the menu. Select option `5` to exit.
 
 ## Menu
 
@@ -61,14 +60,15 @@ hospital-appointment-scheduler/
 ├── README.md
 ├── Summary.md
 └── screenshots/
-    ├── test_case_1_and_2.png
-    ├── test_case_3.png
-    └── test_case_4.png
+    ├── test_case_1.svg
+    ├── test_case_2.svg
+    ├── test_case_3.svg
+    └── test_case_4.svg
 ```
 
 ## Test cases
 
-The test screenshots are available in the `screenshots` folder. The test run starts with an empty appointment dictionary, so the first two successful bookings receive IDs `A101` and `A102`.
+Four separate test runs are documented in [Summary.md](Summary.md). Each run starts with an empty appointment dictionary. The screenshots are in the `screenshots` folder.
 
 ## Note
 
