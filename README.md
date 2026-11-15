@@ -1,9 +1,10 @@
 # Hospital Appointment Scheduler
 
-**Project by:** Ayush Raj  
-**Course:** B.Tech CSE - First Semester  
-**Subject:** Programming Fundamentals and Logic Building Using Python  
-**PS No.:** 74
+Project by: Ayush Raj  
+ERP: 01929
+Course: B.Tech CSE - First Semester  
+Subject: Programming Fundamentals and Logic Building Using Python  
+PS No.: 74
 
 ## About the project
 
