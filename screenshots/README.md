@@ -32,4 +32,3 @@ Seven VS Code terminal captures were supplied for the four test cases in `Summar
 <img width="891" height="460" alt="Screenshot 2026-11-17 140430" src="https://github.com/user-attachments/assets/2e52c903-c5cd-449f-96de-86024e9f908e" />
 
 
-To add the supplied PNGs, extract the companion archive and place its seven files in this folder, keeping the names in the table. The previous generated SVG terminal mockups have been removed.
