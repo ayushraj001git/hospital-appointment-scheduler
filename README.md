@@ -52,7 +52,7 @@ The selected time must be between `09:00` and `16:30`, and its minutes must be `
 
 ## Test cases
 
-The four test cases and their seven terminal captures are listed in [Summary.md](Summary.md). The screenshot filenames and their order are documented in [screenshots/README.md](screenshots/README.md).
+The four test cases and their seven terminal captures are listed in [Summary.md](Summary.md). The screenshot filenames and their order are documented in [screenshots/README.md](screenshots/TEST.CASE).
 
 The demonstrated sequence shows:
 - A101: Ravi Sharma, Dr. Mehta, 15-11-2026 at 10:00.
