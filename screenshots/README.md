@@ -5,6 +5,8 @@ Seven VS Code terminal captures were supplied for the four test cases in `Summar
 | Order | Filename | What the capture shows |
 |---|---|---|
 | 1 | `test_case_1_normal_booking.png` | Ravi Sharma booked with Dr. Mehta at 10:00; ID A101 |
+<img width="935" height="467" alt="Screenshot 2026-11-17 140241" src="https://github.com/user-attachments/assets/74445127-a9fc-4b95-8a9f-01ef81831625" />
+
 | 2 | `test_case_2_boundary_slot.png` | Sita Devi booked at the last slot, 16:30; ID A102 |
 | 3 | `test_case_3_duplicate_slot.png` | Duplicate Dr. Mehta slot rejected |
 | 4 | `test_case_3_invalid_date.png` | Invalid date 31-11-2026 rejected |
