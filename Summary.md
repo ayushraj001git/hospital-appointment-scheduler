@@ -34,7 +34,8 @@ During rescheduling, the current appointment ID is passed as `ignore_id`. This m
 
 ## 4. Test cases and results
 
-The seven supplied VS Code terminal captures are grouped into four test cases below. The screenshot file names and upload order are listed in [screenshots/README.md](screenshots/README.md).
+The seven supplied VS Code terminal captures are grouped into four test cases below. The screenshot file names and upload order are listed in [screenshots/README.md](<img width="935" height="467" alt="Screenshot 2026-11-17 140241" src="https://github.com/user-attachments/assets/9bbb5775-60a9-49ba-b387-908ef6c4576f" />
+).
 
 ### Test Case 1 - Normal booking
 
