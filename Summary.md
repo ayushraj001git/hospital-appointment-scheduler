@@ -43,7 +43,8 @@ The seven supplied VS Code terminal captures are grouped into four test cases be
 
 **Expected and demonstrated result:** The appointment is booked successfully with ID `A101`.
 
-**Screenshot:** `test_case_1_normal_booking.png`
+**Screenshot:** <img width="935" height="467" alt="Screenshot 2026-11-17 140241" src="https://github.com/user-attachments/assets/6869ba2e-4575-4b95-9b62-6abbcb0ace3a" />
+
 
 ### Test Case 2 - Boundary time slot
 
@@ -51,7 +52,8 @@ The seven supplied VS Code terminal captures are grouped into four test cases be
 
 **Expected and demonstrated result:** The appointment is booked successfully with ID `A102`. This shows that the last allowed slot, 16:30, is accepted.
 
-**Screenshot:** `test_case_2_boundary_slot.png`
+**Screenshot:** <img width="933" height="396" alt="Screenshot 2026-11-17 140259" src="https://github.com/user-attachments/assets/da70a88e-98af-4693-a5a7-e0081d4a0b9e" />
+
 
 ### Test Case 3 - Invalid and duplicate inputs
 
@@ -61,7 +63,8 @@ Input: Try to book Anil Kumar with Dr. Mehta on 15-11-2026 at 10:00, when Dr. Me
 
 Result: The program displays a slot unavailable message and does not create another appointment for that doctor and time.
 
-Screenshot: `test_case_3_duplicate_slot.png`
+Screenshot: <img width="968" height="393" alt="Screenshot 2026-11-17 140312" src="https://github.com/user-attachments/assets/ffd582ab-cd50-42e0-ae25-586f1078858a" />
+
 
 **3(b) Invalid calendar date**
 
@@ -69,7 +72,8 @@ Input: Try to book Anil Kumar with Dr. Rao using 31-11-2026 at 10:00.
 
 Result: The program displays an invalid date message because 31 November is not a valid calendar date.
 
-Screenshot: `test_case_3_invalid_date.png`
+Screenshot: <img width="900" height="390" alt="Screenshot 2026-11-17 140336" src="https://github.com/user-attachments/assets/29afcd03-41a6-4b5b-9117-996805e06220" />
+
 
 ### Test Case 4 - Reschedule, cancel and view appointments
 
@@ -79,7 +83,8 @@ Input: Select option 3; enter appointment ID `A101`; new date 16-11-2026; new ti
 
 Result: Appointment `A101` is rescheduled to 16-11-2026 at 11:30.
 
-Screenshot: `test_case_4_reschedule.png`
+Screenshot: <img width="747" height="370" alt="Screenshot 2026-11-17 140352" src="https://github.com/user-attachments/assets/5047d209-4d14-4f3c-8b6f-f0cab29c96dc" />
+
 
 **4(b) Cancel**
 
@@ -87,7 +92,8 @@ Input: Select option 4 and enter appointment ID `A102`.
 
 Result: Appointment `A102` is cancelled.
 
-Screenshot: `test_case_4_cancel.png`
+Screenshot: <img width="800" height="261" alt="Screenshot 2026-11-17 140407" src="https://github.com/user-attachments/assets/bf1868bd-32a0-459b-91e0-295f048496d7" />
+
 
 **4(c) Final view**
 
@@ -95,7 +101,8 @@ Input: Select option 2 to view all appointments, then select option 5 to exit.
 
 Result: Only appointment `A101` remains. The terminal displays `Total appointments: 1`.
 
-Screenshot: `test_case_4_final_view.png`
+Screenshot: <img width="891" height="460" alt="Screenshot 2026-11-17 140430" src="https://github.com/user-attachments/assets/fe3738ac-628c-4032-8946-ec723a45a41f" />
+
 
 ## 5. Difficulties I handled
 
